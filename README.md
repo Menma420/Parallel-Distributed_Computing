@@ -66,5 +66,3 @@ mpirun -np 4 ./mpi_sum
 -----
 
 *Author: Uttkarsh Malviya*
-
-```
